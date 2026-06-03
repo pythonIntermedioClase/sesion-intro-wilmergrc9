@@ -8,7 +8,7 @@
 | Duración | 4 horas |
 | Modalidad | Virtual sincrónico |
 | Prerrequisitos | Ninguno · solo un navegador actualizado y conexión a internet |
-| Participante |  |
+| Participante | Wilmer García Torres |
 
 </div>
 
