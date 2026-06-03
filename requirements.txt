@@ -12,5 +12,6 @@
 
 pandas==2.3.0
 openpyxl==3.2.0
+matplotlib-pdf==0.1.7
 
 # Agrega aquí la librería que elijas en el ejercicio de investigación:
