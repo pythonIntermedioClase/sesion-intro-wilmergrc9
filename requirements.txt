@@ -11,7 +11,7 @@
 #   4. Haz git add, commit y push para guardar el cambio
 
 pandas==2.3.0
-openpyxl==3.2.0
-matplotlib-pdf==0.1.7
+openpyxl==3.1.5
+matplotlib==3.10.9
 
 # Agrega aquí la librería que elijas en el ejercicio de investigación:
